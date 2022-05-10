@@ -23,8 +23,7 @@
 
 
 #--region us-east-1
-#                                    export KOPS_CLUSTER_NAME=vikas.net
-#                                    update it on vi ~/.bashrc and save it permanently by running -- source ~/.bashrc
+                                   
 11. Create sshkeys before creating cluster : ssh-keygen
 
 12. Create kubernetes cluster definitions on S3 bucket
